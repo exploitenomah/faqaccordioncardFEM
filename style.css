@@ -146,6 +146,7 @@ hr{
         padding:  0;
     }
     }
-    h1{
-        display: none;
-    }
+   header{
+       position: absolute;
+       opacity: 0;
+}
