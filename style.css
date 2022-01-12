@@ -80,6 +80,7 @@ details[open]>summary img{
 .question{
     color: var(--text-secondary);
     font-weight: 400;
+    margin: 1rem 0;
 }
 .question:hover {
     color: var(--accent-color);
